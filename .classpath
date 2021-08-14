@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/miglayout-3.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/ClouReaderAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-linux-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-osx-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-osx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/libusb4java-1.2.0-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/RXTX.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/slf4j-nop-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/usb4java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/usb4java-javax-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/usb-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/commons-pool2-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/commons-dbcp2-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rinkesh Patel/Desktop/RFIDSystem/Resources/jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
